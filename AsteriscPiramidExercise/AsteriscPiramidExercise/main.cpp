@@ -3,6 +3,8 @@
 //  AsteriscPiramidExercise
 //
 //  Created by Ceci Benitez on 12/29/23.
+//  Ask the user for a number of rows and draw one asteris per number of row
+//  example in row 3 draw (* * *) in row 1 draw (*).
 //
 
 #include <iostream>
